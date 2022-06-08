@@ -59,16 +59,16 @@ the interactive method.
 ## Interfaces.
 I defined few interface that I describe before:
 
-###DeepClonable:
+### DeepClonable:
 the objective if this interface is do a object clone.
 
-###Ilist:
+### Ilist:
 This interface extend from Iterable and implement few methods.
 
-###IQueque:
+### IQueque:
 This interfaces have method that do a queque task
 
-###IStack:
+### IStack:
 how the name describe, that do a stack work
 
 
