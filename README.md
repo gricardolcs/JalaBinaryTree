@@ -1,4 +1,4 @@
-# Jalasoft - Binary Tree Project
+# Example - Binary Tree Project
 On this project are crated a complex data structure.
 
 ##Project technology
